@@ -1,0 +1,28 @@
+ANANYA RAO
+ananya@college.edu | +91 98450 12345 | github.com/ananyarao | Bengaluru
+
+EDUCATION
+B.E. Computer Science and Engineering, 2023-2027 - CGPA 8.6 (till 5th semester)
+PU College, Dharwad - 94%
+
+TECHNICAL SKILLS
+Languages: Python, JavaScript, SQL, C
+Libraries / Frameworks: pandas, NumPy, scikit-learn, TensorFlow (Keras), React, Flask
+Tools: Git, GitHub, Jupyter, VS Code, Postman
+
+PROJECTS
+Crop Disease Classifier (TensorFlow, Python)
+- Trained a CNN on 18,000 leaf images to detect 6 crop diseases with 92% accuracy.
+- Served the model through a Flask REST API used by a mobile demo app.
+
+Campus Attendance App (React, Flask, SQLite)
+- Built a React front end and Flask REST backend for QR-based attendance.
+- Used by 300+ students in two departments; cut manual roll-call time by 80%.
+
+Exploratory Data Analysis notebooks (pandas, Matplotlib)
+- Published 4 Kaggle notebooks on retail sales and air-quality datasets (bronze medal).
+
+ACHIEVEMENTS AND ACTIVITIES
+- Secretary, College Coding Club: organised 3 hackathons with 200+ participants.
+- Smart India Hackathon 2025 - national finalist (team of 6).
+- NPTEL: Introduction to Machine Learning (Elite + Silver).

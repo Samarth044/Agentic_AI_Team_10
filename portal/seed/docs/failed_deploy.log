@@ -1,0 +1,7 @@
+2026-11-15T09:12:03Z INFO  Building image portal-backend:1.4.2
+2026-11-15T09:12:41Z INFO  Starting uvicorn portal.main:app on 0.0.0.0:8000
+2026-11-15T09:12:42Z INFO  Health check GET /api/health -> 500
+2026-11-15T09:12:42Z ERROR sqlite3.OperationalError: no such table: progress_logs
+2026-11-15T09:12:42Z ERROR   File "portal/agents/progress.py", line 41, in analyze
+2026-11-15T09:12:43Z WARN  GROQ_API_KEY not set; LLM calls will use offline fallback
+2026-11-15T09:12:50Z ERROR Health check failed 3/3, rolling deployment marked FAILED

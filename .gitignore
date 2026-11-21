@@ -1,0 +1,22 @@
+# Secrets: never commit credentials
+.env
+
+# Portal runtime data and logs (database, uploaded resumes, memory files, audit log)
+data/
+logs/
+
+# Frontend
+frontend/node_modules/
+frontend/dist/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+.vscode/
+.idea/
